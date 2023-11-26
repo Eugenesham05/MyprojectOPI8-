@@ -17,7 +17,6 @@ void mass_t(int a[], int t[])
 
 int main()
 {
-	srand(time(NULL));
 	const int m = 10;
 	int n[m], b[m];
 	ini(n);
